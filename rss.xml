@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Educator, Photographer, Enthusiast]]></title>
         <description><![CDATA[Educator, Photographer, Enthusiast]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jason-oswald/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 19:36:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 19:40:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jason-oswald/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://www.jason-oswald.photography/</p>]]></description>
+            <link>https://thegrid.ai/jason-oswald/debdc6bd-16ac-4e35-bdc8-3a1ffef4b21a/index.html</link>
+            <guid isPermaLink="false">debdc6bd-16ac-4e35-bdc8-3a1ffef4b21a</guid>
+            <pubDate>Thu, 17 Dec 2015 19:40:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Importance]]></title>
             <description><![CDATA[<article><h1>Importance</h1><p>I was talking with my students today and one of them made the claim that The Force Awakens was going to be the most important movie of all time. I eventually stared him down to "most important movie of our generation." I then told him I didn't think that it was going to be important, which started a discussion on what it meant for a movie to be important and what some important movies were. </p></article>]]></description>
-            <link>undefinedimportance/index.html</link>
+            <link>https://thegrid.ai/jason-oswald/importance/index.html</link>
             <guid isPermaLink="false">de5c1917-d529-47d5-abf2-5ace9e6bb403</guid>
             <pubDate>Thu, 17 Dec 2015 19:35:12 GMT</pubDate>
         </item>
