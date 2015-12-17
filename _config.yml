@@ -1,7 +1,7 @@
 name: Jason Oswald
 favicon: null
-layout_spectrum: 0.8168733278289437
-typography_spectrum: 0.7927152724005282
+layout_spectrum: 1
+typography_spectrum: 0.77568
 title: 'Educator, Photographer, Enthusiast'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.40572691336274147
-  lightness: 0.8684496048372239
-  saturation: 0.09386428608559072
-  rhythmicContrast: 0.28767050825990736
+  brandStrength: 0.375
+  lightness: 0.875
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
